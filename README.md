@@ -13,6 +13,7 @@ I'm a self-thought programmer ...
 
 [![instagram](https://img.shields.io/badge/instagram-ff5722?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamine.dll)
 
+![profile views](https://komarev.com/ghpvc/?username=6-on&color=green)
 
 ## 🛠 Languages I am interested in
 
