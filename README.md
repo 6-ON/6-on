@@ -19,5 +19,5 @@ I'm a self-thought programmer ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6-on&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6-on&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6-on&theme=tokyonight)
 
