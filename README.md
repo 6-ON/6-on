@@ -1,1 +1,1 @@
-![image](./resources/profile-1.png)
+![image](./resources/profile-2.png)
